@@ -1,0 +1,14 @@
+0 Sin_nombre
+0 Name: generadormovil1.ldr
+0 Author: cpcbegin
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 60 24 0 1 0 0 0 1 0 0 0 1 jacen2x2.dat
+1 0 60 24 -60 1 0 0 0 1 0 0 0 1 jacen2x2.dat
+1 15 60 24 -20 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 15 60 -8 0 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 15 50 -8 -60 1 0 0 0 1 0 0 0 1 placa2x3.dat
+1 15 60 0 20 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+1 15 60 0 -40 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+0
