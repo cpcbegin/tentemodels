@@ -1,5 +1,5 @@
 0 Explorador espacial
-0 Name: exploradorespacial.ldr
+0 Name: Astro0652_exploradorespacial.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -31,11 +31,11 @@
 1 7 0 -88 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 15 10 -8 -10 -1 0 0 0 1 0 0 0 -1 cirrevop.dat
 1 102900258 10 -8 -10 1 0 0 0 1 0 0 0 1 cirrevop.dat
-1 12 0 8 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 -24 90 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 -24 90 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 15 -10 -8 150 0 0 1 0 1 0 -1 0 0 jacen2x3.dat
 1 1 10 -32 110 0 0 1 0 1 0 -1 0 0 jacen2x3.dat
 1 1 -30 -32 110 0 0 1 0 1 0 -1 0 0 jacen2x3.dat
 1 1 -30 -32 110 1 0 0 0 1 0 0 0 1 jacen2x4.dat
-1 12 0 8 130 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 130 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 0

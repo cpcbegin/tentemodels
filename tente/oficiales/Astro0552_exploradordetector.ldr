@@ -1,13 +1,13 @@
 0 Explorador detector
-0 Name: exploradordetector.ldr
+0 Name: Astro0552_exploradordetector.ldr
 0 Author: cpcbegin
 0 Tente astro: Los vehiculos de las galaxias
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 0 30 0 -50 0 0 -1 0 1 0 1 0 0 placa2x8.dat
-1 12 0 8 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 8 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 8 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 0 -30 -8 150 0 0 1 0 1 0 -1 0 0 placa4x8.dat
 1 0 -50 -16 150 0 0 1 0 1 0 -1 0 0 placa6x8.dat
 1 15 -50 -24 150 0 0 1 0 1 0 -1 0 0 jacena8.dat

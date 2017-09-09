@@ -1,5 +1,5 @@
 0 Vehiculo de enlace
-0 Name: vehiculoenlace.ldr
+0 Name: Astro0552_vehiculoenlace.ldr
 0 Author: cpcbegin
 0 Tente astro: Los vehiculos de las galaxias
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -17,9 +17,9 @@
 1 7 -20 16 -20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 7 40 16 -40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 7 -20 16 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 12 0 24 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 24 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 24 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 24 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 24 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 24 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 0 -10 16 90 0 0 1 0 1 0 -1 0 0 jacen2x8.dat
 1 0 -30 48 -10 0 0 1 0 1 0 -1 0 0 placa4x6.dat
 1 0 -50 32 -130 1 0 0 0 1 0 0 0 1 bald2x2.dat

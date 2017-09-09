@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: AstroSencillo.ldr
+0 Name: Astro0552_AstroSencillo.ldr
 0 Author: jasolo
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -17,6 +17,6 @@
 1 102900258 10 -8 10 -1 0 0 0 1 0 0 0 -1 semicupg.dat
 1 15 10 -8 10 1 0 0 0 1 0 0 0 1 semicupg.dat
 1 15 30 -32 110 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 12 0 8 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
-1 12 0 8 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
+1 4 0 8 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 0
