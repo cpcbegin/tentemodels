@@ -1,5 +1,5 @@
 0 Untitled
-0 Name: Compact0315_Eslator.ldr
+0 Name: Compact_0315_Eslator.ldr
 0 Author: MLCad
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -34,7 +34,7 @@
 1 15 -140 -40 -110 0 0 -1 0 1 0 1 0 0 placa4.dat
 1 15 -160 -48 -50 1 0 0 0 1 0 0 0 1 pistola.dat
 1 15 -160 -48 -110 1 0 0 0 1 0 0 0 1 pistola.dat
-1 4 -160 -64 -90 0 0 1 0 1 0 -1 0 0 alfaturb.dat
+1 36 -160 -64 -90 0 0 1 0 1 0 -1 0 0 alfaturb.dat
 1 0 -99 -88 -70 0 -1 0 0 0 1 -1 0 0 conotanq.dat
 1 0 -89 -105 -90 0 0 -1 0 1 0 1 0 0 helmando.dat
 0 MLCAD BTG astronauta
