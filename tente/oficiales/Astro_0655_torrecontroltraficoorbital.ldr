@@ -44,7 +44,7 @@
 1 1 -90 -160 -10 -1 0 0 0 1 0 0 0 -1 cirrevol.dat
 1 1 -90 -160 -10 1 0 0 0 1 0 0 0 1 cirrevol.dat
 1 15 90 -56 10 1 0 0 0 1 0 0 0 1 semicupg.dat
-1 102900258 90 -56 10 -1 0 0 0 1 0 0 0 -1 semicupg.dat
+1 40 90 -56 10 -1 0 0 0 1 0 0 0 -1 semicupg.dat
 1 7 -90 -240 -10 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 117313504 180 -200 0 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 15 -90 -264 -10 1 0 0 0 1 0 0 0 1 panelast.dat
@@ -68,7 +68,7 @@
 0 MLCAD BTG nave
 1 15 50 -160 -100 -1 0 0 0 1 0 0 0 -1 ancla1x2.dat
 0 MLCAD BTG nave
-1 102900258 30 -168 -130 0 0 -1 0 1 0 1 0 0 semicupp.dat
+1 40 30 -168 -130 0 0 -1 0 1 0 1 0 0 semicupp.dat
 0 MLCAD BTG nave
 1 0 70 -168 -110 0 0 1 0 1 0 -1 0 0 sillastr.dat
 0 MLCAD BTG nave
