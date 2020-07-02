@@ -1,5 +1,5 @@
 0 Supertransporte interestelar
-0 Name: saturno6-nodriza.ldr
+0 Name: Astro_0740_saturno6-nodriza.ldr
 0 Author: cpcbegin
 0 Tente astro: Saturno-6
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -58,10 +58,10 @@
 1 0 20 -8 -440 0 0 1 0 1 0 -1 0 0 pico.dat
 1 0 40 -32 -440 0 0 1 0 1 0 -1 0 0 pico.dat
 1 14 -20 -16 -100 0 0 -1 0 1 0 1 0 0 pico.dat
-1 117313504 -50 -40 -270 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 117313504 -50 -40 -250 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 117313504 -30 -40 -250 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 117313504 -30 -40 -270 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 46 -50 -40 -270 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 46 -50 -40 -250 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 46 -30 -40 -250 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 46 -30 -40 -270 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 0 -60 -48 -420 -1 0 0 0 1 0 0 0 -1 bispqaba.dat
 1 0 -20 -48 -420 -1 0 0 0 1 0 0 0 -1 bispqaba.dat
 1 0 -60 -48 -420 -1 0 0 0 1 0 0 0 -1 bispqarr.dat
@@ -177,9 +177,9 @@
 1 4 -160 -168 140 0 0 -1 0 1 0 1 0 0 pistola.dat
 1 4 -170 -182 182 0 0 -1 1 0 0 0 -1 0 tubo.dat
 1 2 -44 -216 -460 -1 0 0 0 1 0 0 0 -1 pistola.dat
-1 117313504 -86 -230 -470 0 1 0 1 0 0 0 0 -1 amortigu.dat
+1 46 -86 -230 -470 0 1 0 1 0 0 0 0 -1 amortigu.dat
 1 2 -40 -216 -480 1 0 0 0 1 0 0 0 1 pistola.dat
-1 117313504 2 -230 -470 0 -1 0 1 0 0 0 0 1 amortigu.dat
+1 46 2 -230 -470 0 -1 0 1 0 0 0 0 1 amortigu.dat
 1 14 -50 -54 -174 0 0 -1 1 0 0 0 -1 0 cilindro.dat
 1 14 -30 -54 -174 0 0 -1 1 0 0 0 -1 0 cilindro.dat
 1 14 -50 -54 -126 0 0 -1 1 0 0 0 -1 0 cilindro.dat

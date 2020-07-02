@@ -1,5 +1,5 @@
 0 Camion especial bomberos aeropuerto
-0 Name: camionespecialbomberosaeropuerto.ldr
+0 Name: Ruta_0553_camionespecialbomberosaeropuerto.ldr
 0 Author: cpcbegin
 0 Tente ruta: el mundo de la ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -102,8 +102,8 @@
 1 15 -90 -8 160 0 0 1 0 1 0 -1 0 0 rallado2.dat
 1 15 -10 -32 -140 1 0 0 0 1 0 0 0 1 bald2x2r.dat
 1 15 -90 -32 -140 1 0 0 0 1 0 0 0 1 bald2x2r.dat
-1 117313504 10 -32 -160 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 117313504 -70 -32 -160 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 46 10 -32 -160 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 46 -70 -32 -160 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 0 -10 -64 260 1 0 0 0 1 0 0 0 1 placa2.dat
 1 0 -90 -64 260 1 0 0 0 1 0 0 0 1 placa2.dat
 1 0 -10 -64 140 1 0 0 0 1 0 0 0 1 placa2.dat

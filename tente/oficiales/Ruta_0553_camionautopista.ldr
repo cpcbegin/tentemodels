@@ -1,5 +1,5 @@
 0 Camion autopista
-0 Name: camionautopista.ldr
+0 Name: Ruta_0553_camionautopista.ldr
 0 Author: cpcbegin
 0 Tente ruta: el mundo de la ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -23,8 +23,8 @@
 1 14 80 -40 60 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 14 0 -40 140 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
 1 14 80 -40 100 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
-1 117313504 70 -40 50 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 117313504 10 -40 50 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 46 70 -40 50 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 46 10 -40 50 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 0 40 -40 160 -1 0 0 0 1 0 0 0 -1 enganche.dat
 1 15 40 -26 160 0 0 -1 1 0 0 0 -1 0 popa4p.dat
 1 15 40 -26 160 0 0 1 -1 0 0 0 -1 0 popa4p.dat

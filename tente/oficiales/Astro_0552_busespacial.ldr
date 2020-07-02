@@ -1,5 +1,5 @@
 0 Bus espacial
-0 Name: busespacial.ldr
+0 Name: Astro_0552_busespacial.ldr
 0 Author: cpcbegin
 0 Tente astro: Los vehiculos de las galaxias
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -78,7 +78,7 @@
 1 1 -120 -32 -290 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
 1 1 -100 -56 -210 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
 1 40 -60 16 -330 -1 0 0 0 1 0 0 0 -1 semicupg.dat
-1 117313504 -60 -40 -310 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 46 -60 -40 -310 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 1 -80 25 -340 -1 0 0 0 0 1 0 1 0 enganche.dat
 1 14 -90 35 -364 -1 0 0 0 0 1 0 1 0 cilindro.dat
 1 1 -20 25 -340 -1 0 0 0 0 1 0 1 0 enganche.dat

@@ -1,5 +1,5 @@
 0 Camion bomberos
-0 Name: camionbomberos.ldr
+0 Name: Ruta_0690_camionbomberos.ldr
 0 cpcbegin
 0 Tente ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -52,8 +52,8 @@
 1 0 -20 -64 -50 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 4 -20 -64 -70 -1 0 0 0 1 0 0 0 -1 bald2.dat
 1 4 -20 -64 -110 -1 0 0 0 1 0 0 0 -1 bald1.dat
-1 117313504 30 -64 -140 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 117313504 -30 -64 -140 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 46 30 -64 -140 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 46 -30 -64 -140 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 4 -20 -64 -30 -1 0 0 0 1 0 0 0 -1 bald2r.dat
 1 4 40 -64 -70 -1 0 0 0 1 0 0 0 -1 bald2.dat
 1 4 40 -64 -110 -1 0 0 0 1 0 0 0 -1 bald1.dat

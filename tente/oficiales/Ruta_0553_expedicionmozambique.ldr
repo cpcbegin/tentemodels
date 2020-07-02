@@ -1,5 +1,5 @@
 0 Expedicion Morambique
-0 Name: expedicionmozambique.ldr
+0 Name: Ruta_0553_expedicionmozambique.ldr
 0 Author: cpcbegin
 0 Tente ruta: el mundo de la ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -14,8 +14,8 @@
 1 15 70 -40 70 0 0 1 0 1 0 -1 0 0 jacena6.dat
 1 0 110 16 -150 1 0 0 0 1 0 0 0 1 rallado2.dat
 1 0 70 16 -150 1 0 0 0 1 0 0 0 1 rallado2.dat
-1 2 70 -7.5 -152 -1 0 0 0 0 1 0 1 0 enganche.dat
-1 2 170 -7.5 -152 -1 0 0 0 0 1 0 1 0 enganche.dat
+1 2 70 -8.5 -152 -1 0 0 0 0 1 0 1 0 enganche.dat
+1 2 170 -8.5 -152 -1 0 0 0 0 1 0 1 0 enganche.dat
 1 0 110 24 -190 1 0 0 0 1 0 0 0 1 placa2x3.dat
 1 0 50 24 -190 1 0 0 0 1 0 0 0 1 placa2x3.dat
 1 4 110 24 50 1 0 0 0 1 0 0 0 1 placa2x3.dat
@@ -33,7 +33,7 @@
 1 4 100 -64 0 1 0 0 0 1 0 0 0 1 cilindro.dat
 1 1 110 -64 10 0 0 -1 0 1 0 1 0 0 jacena2.dat
 1 0 70 -48 -150 0 0 -1 0 1 0 1 0 0 bald1.dat
-1 14 120 -72 -30 1 0 0 0 1 0 0 0 1 escalera.dat
+1 14 120 -72 -40 1 0 0 0 1 0 0 0 1 escalera.dat
 1 7 80 -24 -140 1 0 0 0 1 0 0 0 1 tbescrct.dat
 1 2 170 -8 70 -1 0 0 0 1 0 0 0 -1 placa4x6.dat
 1 0 130 -16 -150 -1 0 0 0 1 0 0 0 -1 placa2.dat

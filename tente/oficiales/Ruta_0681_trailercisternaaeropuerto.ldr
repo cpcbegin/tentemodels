@@ -1,5 +1,5 @@
 0 Trailer cisterna aeropuerto
-0 Name: trailercisternaaeropuerto.ldr
+0 Name: Ruta_0681_trailercisternaaeropuerto.ldr
 0 cpcbegin
 0 Tente ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -43,7 +43,7 @@
 1 15 -70 -64 -100 0 0 1 0 1 0 -1 0 0 bald2x2.dat
 1 15 -50 -56 -220 0 0 1 0 1 0 -1 0 0 bald2x2.dat
 1 15 -90 -56 -220 0 0 1 0 1 0 -1 0 0 bald2x2.dat
-1 117313504 -50 -56 -200 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 46 -50 -56 -200 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 1 -70 -64 100 0 0 1 0 1 0 -1 0 0 placa2x2.dat
 1 15 -90 40 160 0 0 1 0 1 0 -1 0 0 placa2x2.dat
 1 1 -70 -64 20 0 0 1 0 1 0 -1 0 0 placa2x2.dat

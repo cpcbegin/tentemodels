@@ -1,5 +1,5 @@
 0 Patrulla Astro-91
-0 Name: patrulla91.ldr
+0 Name: Astro_0552_patrulla91.ldr
 0 cpcbegin
 0 Tente astro: los vehiculos de las galaxias
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -40,8 +40,8 @@
 1 7 -100 -56 110 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 7 -80 -56 90 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 7 -80 -56 110 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 117313504 -60 -136 -32 1 0 0 0 0 -1 0 1 0 amortigu.dat
-1 117313504 -120 -136 -32 1 0 0 0 0 -1 0 1 0 amortigu.dat
+1 46 -60 -136 -32 1 0 0 0 0 -1 0 1 0 amortigu.dat
+1 46 -120 -136 -32 1 0 0 0 0 -1 0 1 0 amortigu.dat
 1 1 -110 -56 40 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 1 -110 -104 40 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 1 -110 -64 40 1 0 0 0 1 0 0 0 1 jacen2x2.dat

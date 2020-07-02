@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: controlaereo.ldr
+0 Name: Alpha_0370_ControlAereo.ldr
 0 Author: jasolo
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -31,8 +31,8 @@
 1 9 20 -56 30 1 0 0 0 1 0 0 0 1 bald2r.dat
 1 15 30 -56 120 1 0 0 0 1 0 0 0 1 cilindro.dat
 1 15 -30 -56 120 1 0 0 0 1 0 0 0 1 cilindro.dat
-1 117313504 -30 -80 120 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 117313504 30 -80 120 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 46 -30 -80 120 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 46 30 -80 120 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 15 -20 -32 10 1 0 0 0 1 0 0 0 1 airsillo.dat
 1 9 -40 -32 70 0 0 1 0 1 0 -1 0 0 enganche.dat
 1 9 40 -32 50 0 0 -1 0 1 0 1 0 0 enganche.dat

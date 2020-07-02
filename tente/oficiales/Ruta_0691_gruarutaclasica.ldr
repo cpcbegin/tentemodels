@@ -1,5 +1,5 @@
 0 Camion grua
-0 Name: gruarutaclasica.ldr
+0 Name: Ruta_0691_gruarutaclasica.ldr
 0 Author: cpcbegin
 0 Tente ruta: estacion de engrase y camion grua
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -23,7 +23,7 @@
 1 4 20 -16 -40 0 0 1 0 1 0 -1 0 0 enganche.dat
 1 0 30 8 10 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 0 50 8 10 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 117313504 50 -40 -50 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 46 50 -40 -50 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 4 40 8 -10 1 0 0 0 1 0 0 0 1 ancla1x2.dat
 1 4 40 -16 -30 0 0 1 0 1 0 -1 0 0 grua.dat
 1 4 60 -16 -60 0 0 -1 0 1 0 1 0 0 enganche.dat

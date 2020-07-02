@@ -1,5 +1,5 @@
 0 Unidad teledetectora
-0 Name: Astro0657_unidadteledetectora.ldr
+0 Name: Astro_0657_unidadteledetectora.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -39,7 +39,7 @@
 1 0 30 -32 10 -1 0 0 0 1 0 0 0 -1 jacena2.dat
 1 0 30 -56 10 -1 0 0 0 1 0 0 0 -1 jacena2.dat
 1 0 30 -88 30 -1 0 0 0 1 0 0 0 -1 jacena2.dat
-1 117313504 10 -40 -110 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 46 10 -40 -110 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 7 10 -113.935 -38.205 1 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 amortigu.dat
 1 4 10 -118.076 -53.66 1 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 laser.dat
 1 15 -10 -16 -70 -1 0 0 0 1 0 0 0 -1 pico.dat

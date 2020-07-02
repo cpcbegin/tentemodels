@@ -1,5 +1,5 @@
 0 Trailer transportes especiales
-0 Name: trailertransportesespeciales.ldr
+0 Name: Ruta_0682_trailertransportesespeciales.ldr
 0 cpcbegin
 0 Tente ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -75,7 +75,7 @@
 1 14 90 -16 -500 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 14 10 -16 -460 1 0 0 0 1 0 0 0 1 placa2.dat
 1 14 50 -16 -460 1 0 0 0 1 0 0 0 1 placa2.dat
-1 117313504 40 -24 -450 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 117313504 30 24 -260 0 0 -1 0 1 0 1 0 0 superatl.dat
-1 117313504 70 24 -100 0 0 1 0 1 0 -1 0 0 superatl.dat
+1 46 40 -24 -450 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 15 30 24 -260 0 0 -1 0 1 0 1 0 0 superatl.dat
+1 15 70 24 -100 0 0 1 0 1 0 -1 0 0 superatl.dat
 0
