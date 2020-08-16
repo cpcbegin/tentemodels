@@ -1,11 +1,11 @@
 0 Astromovil
-0 Name: Astro0653_astromovil.ldr
+0 Name: Astro_0653_astromovil.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 -10 -16 50 1 0 0 0 1 0 0 0 1 tbesctrp.dat
-1 7 30 -16 90 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
+1 383 -10 -16 50 1 0 0 0 1 0 0 0 1 tbesctrp.dat
+1 383 30 -16 90 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
 1 4 0 8 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 4 0 8 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 4 0 8 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat

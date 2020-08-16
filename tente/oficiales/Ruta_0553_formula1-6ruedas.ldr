@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: formula1-6ruedas.ldr
+0 Name: Ruta_0553_formula1-6ruedas.ldr
 0 Author: CPCBEGIN
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -74,10 +74,10 @@
 1 4 60 -32 0 1 0 0 0 1 0 0 0 1 placa2.dat
 1 4 60 -24 -20 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 4 100 -24 20 0 0 -1 0 1 0 1 0 0 jacen2x3.dat
-1 7 90 -24 170 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 90 -24 190 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 90 -24 210 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 70 -24 210 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 90 -24 170 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 90 -24 190 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 90 -24 210 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 70 -24 210 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 15 160 -24 120 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 4 120 -48 120 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 4 100 -48 180 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
@@ -101,8 +101,8 @@
 1 14 100 -40 320 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
 1 14 60 -40 320 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
 1 14 140 -40 320 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 7 70 -24 170 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 70 -24 190 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 70 -24 170 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 70 -24 190 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 4 100 -24 80 0 0 -1 0 1 0 1 0 0 jacen2x4.dat
 1 4 60 -32 240 1 0 0 0 1 0 0 0 1 placa2.dat
 1 4 60 -48 100 1 0 0 0 1 0 0 0 1 placa2.dat

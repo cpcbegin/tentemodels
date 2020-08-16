@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: todoterrenocistena.ldr
+0 Name: Ruta_0553_todoterrenocisterna.ldr
 0 Author: cpcbegin
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -7,11 +7,11 @@
 1 4 -30 15 0 1 0 0 0 1 0 0 0 1 rueastro.dat
 1 4 -30 15 -60 1 0 0 0 1 0 0 0 1 rueastro.dat
 1 4 -30 15 -120 1 0 0 0 1 0 0 0 1 rueastro.dat
-1 7 -10 8 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 46 -10 -96 -30 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 46 -70 -96 -30 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 14 -50 -96 -30 1 0 0 0 1 0 0 0 1 escalera.dat
-1 7 -10 8 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 15 -40 8 40 -1 0 0 0 1 0 0 0 -1 rallado2.dat
 1 15 0 8 40 -1 0 0 0 1 0 0 0 -1 rallado2.dat
 1 0 -60 8 -120 1 0 0 0 1 0 0 0 1 rallado2.dat
@@ -33,9 +33,15 @@
 1 15 0 -72 20 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 15 0 -72 -20 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 0 -80 -16 20 0 0 1 0 1 0 -1 0 0 placa4x8.dat
-1 7 -10 8 10 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -70 8 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -70 8 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -70 8 10 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 10 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 10 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 -90 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 -30 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -10 8 30 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 -90 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 -30 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -70 8 30 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 0 -60 8 40 0 0 1 0 1 0 -1 0 0 jacen2x8.dat
 0

@@ -1,5 +1,5 @@
 0 Formula 1 (el mundo de la ruta)
-0 Name: formula1elf.ldr
+0 Name: Ruta_0553_formula1elf.ldr
 0 Author: cpcbegin
 0 Tente ruta (el mundo de la ruta)
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -9,16 +9,16 @@
 1 4 140 -40 38 1 0 0 0 1 0 0 0 1 tejado.dat
 1 4 140 -32 218 1 0 0 0 1 0 0 0 1 tejado.dat
 1 4 140 -40 238 1 0 0 0 1 0 0 0 1 tejado.dat
-1 7 150 -32 128 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 150 -32 148 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 150 -32 168 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 150 -32 128 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 150 -32 148 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 150 -32 168 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 4 100 -32 238 0 0 1 0 1 0 -1 0 0 enganche.dat
 1 4 100 -32 258 0 0 1 0 1 0 -1 0 0 enganche.dat
 1 4 220 -32 238 0 0 -1 0 1 0 1 0 0 enganche.dat
 1 4 220 -32 218 0 0 -1 0 1 0 1 0 0 enganche.dat
-1 7 170 -32 128 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 170 -32 148 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 170 -32 168 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 170 -32 128 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 170 -32 148 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 170 -32 168 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 4 160 -48 218 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 4 120 -48 218 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 4 140 0 -102 1 0 0 0 1 0 0 0 1 tejado.dat

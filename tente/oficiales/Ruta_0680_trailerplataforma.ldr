@@ -21,7 +21,7 @@
 1 0 80 24 240 0 0 1 0 1 0 -1 0 0 placa2x3.dat
 1 2 140 16 0 -1 0 0 0 1 0 0 0 -1 placa2.dat
 1 2 100 16 -20 0 0 1 0 1 0 -1 0 0 placa2x3.dat
-0 Name: trailerplataforma.ldr
+0 Name: Ruta_0680_trailerplataforma.ldr
 0 Author: CPCBEGIN
 0 Unofficial Model
 1 0 80 24 120 0 0 1 0 1 0 -1 0 0 placa2x8.dat
@@ -48,8 +48,8 @@
 1 4 100 40 440 -1 0 0 0 1 0 0 0 -1 tejado.dat
 1 4 140 48 460 -1 0 0 0 1 0 0 0 -1 tejado.dat
 1 4 100 48 460 -1 0 0 0 1 0 0 0 -1 tejado.dat
-1 7 90 -32 70 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 110 -32 70 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 90 -32 70 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 110 -32 70 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 0 80 -32 100 0 0 1 0 1 0 -1 0 0 enganch2.dat
 1 0 120 -32 80 0 0 -1 0 1 0 1 0 0 enganch2.dat
 1 15 100 8 -40 1 0 0 0 1 0 0 0 1 cabant.dat

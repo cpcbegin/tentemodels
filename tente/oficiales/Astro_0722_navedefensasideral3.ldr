@@ -1,18 +1,18 @@
 0 Nave de defensa sideral III
-0 Name: navedefensasideral3.ldr
+0 Name: Astro_0722_navedefensasideral3.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 1 -10 24 -140 0 0 1 0 1 0 -1 0 0 alaastro.dat
-1 7 -20 24 -130 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -20 24 -110 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 0 24 -110 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -20 24 -90 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -20 24 -70 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 0 24 -130 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 0 24 -90 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 0 24 -70 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -20 24 -130 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -20 24 -110 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 0 24 -110 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -20 24 -90 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -20 24 -70 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 0 24 -130 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 0 24 -90 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 0 24 -70 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 1 10 56 100 1 0 0 0 1 0 0 0 1 alaastro.dat
 1 4 10 152 -80 0 0 1 0 1 0 -1 0 0 patastro.dat
 1 4 10 16 220 0 0 1 0 1 0 -1 0 0 patastro.dat

@@ -1,19 +1,19 @@
 0 Nave de defensa sideral II
-0 Name: navedefensasideral2.ldr
+0 Name: Astro_0722_navedefensasideral2.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 1 15 -14 20 64 0 -1 0 1 0 0 0 0 1 cilindr.dat
 1 1 -54 24 -76 0 0 1 0 1 0 -1 0 0 alaastro.dat
-1 7 -64 0 94 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -64 0 114 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -44 0 114 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -64 0 134 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -64 0 154 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -44 0 94 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -44 0 134 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -44 0 154 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -64 0 94 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -64 0 114 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -44 0 114 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -64 0 134 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -64 0 154 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -44 0 94 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -44 0 134 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -44 0 154 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 1 -74 48 124 0 0 1 0 1 0 -1 0 0 jacen2x2.dat
 1 1 26 128 64 1 0 0 0 1 0 0 0 1 alaastro.dat
 1 4 -34 152 -16 0 0 1 0 1 0 -1 0 0 patastro.dat

@@ -1,5 +1,5 @@
 0 Limpiapistas
-0 Name: limpiapistas.ldr
+0 Name: Ruta_0553_limpiapistas.ldr
 0 Author: cpcbegin
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -44,10 +44,10 @@
 1 0 -60 8 40 0 0 1 0 1 0 -1 0 0 placa2x8.dat
 1 4 -60 -8 40 0 0 1 0 1 0 -1 0 0 placa2x8.dat
 1 4 -40 -8 -80 -1 0 0 0 1 0 0 0 -1 semicupp.dat
-1 7 -20 -18 -20 0 -1 0 1 0 0 0 0 1 tbesctrp.dat
-1 7 -20 -18 -80 0 -1 0 1 0 0 0 0 1 tbesctrp.dat
-1 7 -60 -18 -40 0 1 0 1 0 0 0 0 -1 tbesctrp.dat
-1 7 -60 -18 20 0 1 0 1 0 0 0 0 -1 tbesctrp.dat
+1 383 -20 -18 -20 0 -1 0 1 0 0 0 0 1 tbesctrp.dat
+1 383 -20 -18 -80 0 -1 0 1 0 0 0 0 1 tbesctrp.dat
+1 383 -60 -18 -40 0 1 0 1 0 0 0 0 -1 tbesctrp.dat
+1 383 -60 -18 20 0 1 0 1 0 0 0 0 -1 tbesctrp.dat
 1 46 -56 -28 -30 0 1 0 1 0 0 0 0 -1 amortigu.dat
 1 46 -16 -28 -30 0 -1 0 1 0 0 0 0 1 amortigu.dat
 0

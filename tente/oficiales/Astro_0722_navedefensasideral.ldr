@@ -1,5 +1,5 @@
 0 Nave de defensa sideral
-0 Name: navedefensasideral.ldr
+0 Name: Astro_0722_navedefensasideral.ldr
 0 Author: cpcbegin
 0 Tente astro
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -51,14 +51,14 @@
 1 15 -170 8 300 0 0 -1 0 1 0 1 0 0 rallado2.dat
 1 15 -170 8 340 0 0 -1 0 1 0 1 0 0 rallado2.dat
 1 0 -170 -16 300 0 0 -1 0 1 0 1 0 0 jacen2x4.dat
-1 7 -160 -16 370 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -160 -16 350 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -160 -16 330 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -160 -16 310 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -220 -16 370 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -220 -16 350 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -220 -16 330 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 -220 -16 310 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -160 -16 370 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -160 -16 350 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -160 -16 330 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -160 -16 310 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -220 -16 370 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -220 -16 350 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -220 -16 330 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 -220 -16 310 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 1 -170 -40 300 0 0 -1 0 1 0 1 0 0 jacen2x2.dat
 1 15 -230 -40 380 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
 1 15 -150 -40 340 0 0 -1 0 1 0 1 0 0 bald2x2r.dat

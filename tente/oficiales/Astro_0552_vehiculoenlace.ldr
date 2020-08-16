@@ -1,22 +1,22 @@
 0 Vehiculo de enlace
-0 Name: Astro0552_vehiculoenlace.ldr
+0 Name: Astro_0552_vehiculoenlace.ldr
 0 Author: cpcbegin
 0 Tente astro: Los vehiculos de las galaxias
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 40 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 40 16 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 40 16 40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 -40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 -40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 0 50 40 -50 -1 0 0 0 1 0 0 0 -1 jacena4.dat
-1 7 40 16 20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 40 16 -20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 -20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 40 16 -40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 -20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 -20 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 40 16 -40 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 80 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 4 0 24 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 4 0 24 50 -1 0 0 0 1 0 0 0 -1 rueastro.dat
 1 4 0 24 110 -1 0 0 0 1 0 0 0 -1 rueastro.dat

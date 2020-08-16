@@ -4,10 +4,10 @@
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 7 -10 0 50 1 0 0 0 1 0 0 0 1 tbesctrp.dat
-1 7 30 0 90 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
-1 7 40 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -20 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -10 0 50 1 0 0 0 1 0 0 0 1 tbesctrp.dat
+1 383 30 0 90 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
+1 383 40 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -20 16 100 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 40 10 -8 -10 -1 0 0 0 1 0 0 0 -1 semicupg.dat
 1 1 10 -8 -10 1 0 0 0 1 0 0 0 1 semicupg.dat
 1 4 0 24 -10 -1 0 0 0 1 0 0 0 -1 rueastro.dat

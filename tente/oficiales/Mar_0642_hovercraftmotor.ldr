@@ -1,5 +1,5 @@
 0 Hovercraft (motor)
-0 Name: hovercraftmotor.ldr
+0 Name: Mar_0642_hovercraftmotor.ldr
 0 Author: cpcbegin
 0 Tente mar - motor
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -117,5 +117,6 @@
 1 15 -110 -38 297 0 0 1 -1 0 0 0 -1 0 compuert.dat
 1 15 10 -1 295 0 0 1 0 1 0 -1 0 0 hovcraft.dat
 1 15 -150 -1 135 0 0 -1 0 1 0 1 0 0 hovcraft.dat
-1 14 -6 -66 110 0 1 0 0 0 1 1 0 0 rombof.dat
+1 14 -11 -64 150 0 1 0 0 0 -1 -1 0 0 rombof.dat
+1 14 -130 -64 110 0 -1 0 0 0 -1 1 0 0 rombof.dat
 0

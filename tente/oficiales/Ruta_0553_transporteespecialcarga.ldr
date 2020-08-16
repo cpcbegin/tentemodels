@@ -1,5 +1,5 @@
 0 Transportes especiales (carga)
-0 Name: transportesespecialescarga.ldr
+0 Name: Ruta_0553_transporteespecialcarga.ldr
 0 cpcbegin
 0 Tente ruta: el mundo de la ruta
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -27,7 +27,7 @@
 1 14 -100 -56 120 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 46 -90 -8 30 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 46 -30 -8 30 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -30 -46 124 0 0 1 -1 0 0 0 -1 0 amortigu.dat
+1 383 -30 -46 124 0 0 1 -1 0 0 0 -1 0 amortigu.dat
 1 14 -30 -46 28 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 0 -30 -46 52 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 0 -30 -46 4 0 0 1 -1 0 0 0 -1 0 cilindro.dat
@@ -35,7 +35,7 @@
 1 4 -30 -46 148 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 0 -30 -46 76 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 0 -40 -56 100 1 0 0 0 0 1 0 -1 0 enganche.dat
-1 7 -90 -46 124 0 0 1 -1 0 0 0 -1 0 amortigu.dat
+1 383 -90 -46 124 0 0 1 -1 0 0 0 -1 0 amortigu.dat
 1 14 -90 -46 28 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 0 -90 -46 52 0 0 1 -1 0 0 0 -1 0 cilindro.dat
 1 4 -90 -46 148 0 0 1 -1 0 0 0 -1 0 cilindro.dat

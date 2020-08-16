@@ -1,5 +1,5 @@
 0 Nave de defensa
-0 Name: vehiculodedefensa.ldr
+0 Name: Astro_0552_vehiculodedefensa.ldr
 0 cpcbegin
 0 Tente astro (los vehiculos de las galaxias)
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -9,23 +9,23 @@
 1 4 60 16 -50 1 0 0 0 1 0 0 0 1 rueastro.dat
 1 0 30 8 30 0 0 1 0 1 0 -1 0 0 jacen2x8.dat
 1 4 60 16 10 1 0 0 0 1 0 0 0 1 rueastro.dat
-1 7 80 8 -140 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 -160 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 -140 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 -160 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 -80 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 -100 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 -100 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 -20 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 -40 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 -40 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 40 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 80 8 20 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 20 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 40 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -140 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -160 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -140 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -160 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -80 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -100 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -100 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -20 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 -40 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -40 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 40 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 80 8 20 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 20 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 40 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 0 70 8 -170 0 0 -1 0 1 0 1 0 0 jacen2x2.dat
-1 7 20 8 -20 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 20 8 -80 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -20 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 20 8 -80 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 0 90 8 -170 -1 0 0 0 1 0 0 0 -1 jacena4.dat
 1 0 90 32 -170 -1 0 0 0 1 0 0 0 -1 jacena4.dat
 1 0 70 8 30 -1 0 0 0 1 0 0 0 -1 rallado2.dat

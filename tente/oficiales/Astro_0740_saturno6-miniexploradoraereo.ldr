@@ -1,5 +1,5 @@
 0 Mini explorador aereo
-0 Name: saturno6-miniexploradoraereo.ldr
+0 Name: Astro_0740_saturno6-miniexploradoraereo.ldr
 0 Author: MLCad
 0 Tente astro: Saturno-6
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -10,10 +10,10 @@
 1 0 20 -16 20 -1 0 0 0 1 0 0 0 -1 pinzastr.dat
 1 0 20 -16 -20 1 0 0 0 1 0 0 0 1 pinzastr.dat
 1 0 40 -24 -140 0 0 -1 0 1 0 1 0 0 placa2x8.dat
-1 7 30 -32 10 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 30 -32 -10 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 10 -32 -10 0 0 -1 0 1 0 1 0 0 amortigu.dat
-1 7 10 -32 10 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 30 -32 10 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 30 -32 -10 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 10 -32 -10 0 0 -1 0 1 0 1 0 0 amortigu.dat
+1 383 10 -32 10 0 0 -1 0 1 0 1 0 0 amortigu.dat
 1 40 20 -32 -100 -1 0 0 0 1 0 0 0 -1 semicupp.dat
 1 0 0 -32 -40 1 0 0 0 1 0 0 0 1 sillastr.dat
 1 4 0 -24 -40 0 0 -1 0 1 0 1 0 0 pistola.dat

@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: gruaportacontainers.ldr
+0 Name: Ruta_0553_gruaportacontainers.ldr
 0 Author: CPCBEGIN
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -83,8 +83,8 @@
 1 4 -10 0 -40 1 0 0 0 1 0 0 0 1 jacen2x8.dat
 1 15 100 24 -50 1 0 0 0 1 0 0 0 1 cilindro.dat
 1 15 100 24 -110 1 0 0 0 1 0 0 0 1 cilindro.dat
-1 7 100 48 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 100 48 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 100 48 -110 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 100 48 -50 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 14 170 128 -90 0 0 -1 0 1 0 1 0 0 placa2.dat
 1 4 150 -8 -240 1 0 0 0 1 0 0 0 1 cabant.dat
 1 4 110 -8 -240 1 0 0 0 1 0 0 0 1 jacena4.dat

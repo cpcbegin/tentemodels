@@ -1,5 +1,5 @@
 0 Dragster
-0 Name: dragster.ldr
+0 Name: Ruta_0553_dragster.ldr
 0 cpcbegin
 0 Tente ruta (el mundo de la ruta)
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -16,10 +16,10 @@
 1 15 -110 -80 280 1 0 0 0 1 0 0 0 1 bald2r.dat
 1 15 -50 -80 280 1 0 0 0 1 0 0 0 1 bald2r.dat
 1 4 -70 -80 190 1 0 0 0 1 0 0 0 1 semicupp.dat
-1 7 -70 8 160 1 0 0 0 1 0 0 0 1 tbesctrp.dat
-1 7 -70 8 200 1 0 0 0 1 0 0 0 1 tbesctrp.dat
-1 7 -70 8 240 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
-1 7 -70 8 200 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
+1 383 -70 8 160 1 0 0 0 1 0 0 0 1 tbesctrp.dat
+1 383 -70 8 200 1 0 0 0 1 0 0 0 1 tbesctrp.dat
+1 383 -70 8 240 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
+1 383 -70 8 200 -1 0 0 0 1 0 0 0 -1 tbesctrp.dat
 1 0 -90 -32 120 1 0 0 0 1 0 0 0 1 bald2x2.dat
 1 0 -70 -32 160 0 0 -1 0 1 0 1 0 0 rallado2.dat
 1 0 -70 -32 200 0 0 -1 0 1 0 1 0 0 rallado2.dat
@@ -27,14 +27,14 @@
 1 0 -70 -32 200 0 0 1 0 1 0 -1 0 0 rallado2.dat
 1 14 -30 -32 320 -1 0 0 0 1 0 0 0 -1 jacena4.dat
 1 14 -30 -56 320 -1 0 0 0 1 0 0 0 -1 jacena4.dat
-1 7 -60 -56 230 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -80 -56 230 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -60 -56 210 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -80 -56 210 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -80 -56 190 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -60 -56 190 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -60 -56 170 -1 0 0 0 1 0 0 0 -1 amortigu.dat
-1 7 -80 -56 170 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -60 -56 230 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -80 -56 230 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -60 -56 210 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -80 -56 210 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -80 -56 190 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -60 -56 190 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -60 -56 170 -1 0 0 0 1 0 0 0 -1 amortigu.dat
+1 383 -80 -56 170 -1 0 0 0 1 0 0 0 -1 amortigu.dat
 1 14 -70 -32 300 1 0 0 0 1 0 0 0 1 cabant.dat
 1 4 -30 0 260 -1 0 0 0 1 0 0 0 -1 llantrut.dat
 1 0 -30 0 260 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat

@@ -1,5 +1,5 @@
 0 Trailer con transformador
-0 Name: trailertransformador.ldr
+0 Name: Ruta_0553_trailertransformador.ldr
 0 cpcbegin
 0 Tente ruta (el mundo de la ruta)
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -51,19 +51,19 @@
 1 0 -150 -56 340 0 0 1 0 1 0 -1 0 0 jacena2.dat
 1 0 -150 -80 420 0 0 1 0 1 0 -1 0 0 placa4x6.dat
 1 0 -150 -8 500 0 0 1 0 1 0 -1 0 0 jacena2.dat
-1 7 -130 -48 560 0 0 1 0 1 0 -1 0 0 enganche.dat
-1 7 -90 -48 540 0 0 -1 0 1 0 1 0 0 enganche.dat
+1 383 -130 -48 560 0 0 1 0 1 0 -1 0 0 enganche.dat
+1 383 -90 -48 540 0 0 -1 0 1 0 1 0 0 enganche.dat
 1 4 -110 -56 420 -1 0 0 0 1 0 0 0 -1 enganche.dat
 1 4 -90 -56 420 -1 0 0 0 1 0 0 0 -1 enganche.dat
 1 4 -110 -56 300 1 0 0 0 1 0 0 0 1 enganche.dat
 1 4 -130 -56 300 1 0 0 0 1 0 0 0 1 enganche.dat
 1 4 -130 -40 540 1 0 0 0 1 0 0 0 1 placa2x2.dat
-1 7 -120 -48 570 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -100 -48 570 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -120 -88 390 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -100 -88 390 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -120 -88 330 1 0 0 0 1 0 0 0 1 amortigu.dat
-1 7 -100 -88 330 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -120 -48 570 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -100 -48 570 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -120 -88 390 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -100 -88 390 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -120 -88 330 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 383 -100 -88 330 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 117411832 -140 -80 50 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 117411832 -80 -80 50 1 0 0 0 1 0 0 0 1 amortigu.dat
 1 117411832 -120 -66 300 1 0 0 0 0 -1 0 1 0 amortigu.dat
@@ -75,7 +75,7 @@
 1 4 -140 -32 -30 0 0 1 0 1 0 -1 0 0 cilindro.dat
 1 0 -150 -56 -20 0 0 1 0 1 0 -1 0 0 bald1.dat
 1 15 -110 -32 -20 0 0 1 0 1 0 -1 0 0 bald2x2.dat
-1 7 -120 -38 -30 0 0 1 0 1 0 -1 0 0 tbescrct.dat
+1 383 -120 -38 -30 0 0 1 0 1 0 -1 0 0 tbescrct.dat
 1 14 -150 -80 40 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
 1 14 -70 -80 0 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 15 -110 -32 20 1 0 0 0 1 0 0 0 1 cabant.dat

@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: transporteespecial.ldr
+0 Name: Ruta_0553_transporteespecial.ldr
 0 Author: MLCad
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -48,14 +48,14 @@
 1 4 -60 -56 20 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 14 -20 -64 20 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 14 -100 -64 20 0 0 1 0 1 0 -1 0 0 bald2.dat
-1 7 -70 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -50 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -70 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -50 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -30 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -10 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -30 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
-1 7 -10 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -70 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -50 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -70 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -50 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -30 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -10 -8 -10 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -30 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 383 -10 -8 -30 0 0 1 0 1 0 -1 0 0 amortigu.dat
 1 0 20 48 -180 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
 1 4 0 48 -580 -1 0 0 0 1 0 0 0 -1 llanrutt.dat
 1 0 0 48 -580 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
@@ -99,8 +99,8 @@
 1 0 -100 48 -140 1 0 0 0 1 0 0 0 1 ruta21nm.dat
 1 4 0 -8 40 -1 0 0 0 1 0 0 0 -1 cabant.dat
 1 4 -80 -8 40 -1 0 0 0 1 0 0 0 -1 cabant.dat
-1 7 10 -16 -30 -1 0 0 0 1 0 0 0 -1 tbescrct.dat
-1 7 -90 -16 -30 -1 0 0 0 1 0 0 0 -1 tbescrct.dat
+1 383 10 -13 -30 0 0 -1 0 1 0 1 0 0 tbescrct.dat
+1 383 -90 -13 -30 0 0 -1 0 1 0 1 0 0 tbescrct.dat
 1 0 -40 0 -140 -1 0 0 0 1 0 0 0 -1 rotorinf.dat
 1 0 -40 0 -140 -1 0 0 0 1 0 0 0 -1 rotorsup.dat
 1 4 -40 -8 -220 1 0 0 0 1 0 0 0 1 tejado.dat
