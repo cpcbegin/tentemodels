@@ -45,23 +45,30 @@
 1 0 150 -96 270 -1 0 0 0 1 0 0 0 -1 bald2x2.dat
 1 0 190 -96 270 -1 0 0 0 1 0 0 0 -1 bald2x2.dat
 1 226 30 8 70 1 0 0 0 1 0 0 0 1 placa2x8.dat
-1 226 30 8 450 1 0 0 0 1 0 0 0 1 placa4.dat
-1 226 110 8 450 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 30 8 450 1 0 0 0 1 0 0 0 1 placa2x8.dat
 1 226 70 8 190 0 0 -1 0 1 0 1 0 0 placa2x3.dat
 1 226 110 8 190 0 0 -1 0 1 0 1 0 0 placa2x3.dat
 1 226 150 8 190 0 0 -1 0 1 0 1 0 0 placa2x3.dat
 1 226 190 8 190 0 0 -1 0 1 0 1 0 0 placa2x3.dat
-1 226 30 -24 90 1 0 0 0 1 0 0 0 1 vntscorp.dat
+1 226 70 -24 110 -1 0 0 0 1 0 0 0 -1 vntscorp.dat
+1 226 30 0 470 1 0 0 0 1 0 0 0 1 vntscorp.dat
+1 226 150 0 470 1 0 0 0 1 0 0 0 1 vntscorp.dat
+1 226 152 0 463 1 0 0 0 1 0 0 0 1 vntscorv.dat
+1 226 32 0 463 1 0 0 0 1 0 0 0 1 vntscorv.dat
 1 226 30 -48 70 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+1 226 30 -48 410 1 0 0 0 1 0 0 0 1 bald2x2.dat
+1 226 70 -48 410 1 0 0 0 1 0 0 0 1 bald2x2.dat
+1 226 110 -48 410 1 0 0 0 1 0 0 0 1 bald2x2.dat
 1 226 30 -48 130 1 0 0 0 1 0 0 0 1 bald2x2.dat
+1 226 70 -48 110 1 0 0 0 1 0 0 0 1 bald2x2.dat
+1 226 110 -48 110 1 0 0 0 1 0 0 0 1 bald2x2.dat
 1 226 30 -48 130 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 226 70 -48 170 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 226 110 -48 170 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 226 150 -48 130 0 0 1 0 1 0 -1 0 0 bald2.dat
 1 226 150 -48 430 0 0 1 0 1 0 -1 0 0 bald2.dat
-1 226 110 -48 430 0 0 1 0 1 0 -1 0 0 bald2.dat
-1 226 70 -48 430 0 0 1 0 1 0 -1 0 0 bald2.dat
-1 226 30 -48 430 0 0 1 0 1 0 -1 0 0 bald2.dat
+1 226 170 -48 450 0 0 1 0 1 0 -1 0 0 placa1.dat
+1 226 150 -48 450 0 0 1 0 1 0 -1 0 0 bald1.dat
 1 226 150 -48 130 1 0 0 0 1 0 0 0 1 bald2x2.dat
 1 226 150 -48 210 1 0 0 0 1 0 0 0 1 cabant.dat
 1 226 70 -48 210 1 0 0 0 1 0 0 0 1 cabant.dat
@@ -70,11 +77,22 @@
 1 226 70 -48 70 1 0 0 0 1 0 0 0 1 bald2x2r.dat
 1 226 110 -48 70 1 0 0 0 1 0 0 0 1 bald2x2r.dat
 1 226 150 -48 70 1 0 0 0 1 0 0 0 1 bald2x2r.dat
-1 226 190 -48 470 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 226 150 -48 470 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 226 110 -48 470 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 226 70 -48 470 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
-1 226 150 -24 90 1 0 0 0 1 0 0 0 1 vntscorp.dat
+1 226 30 -16 70 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 110 -16 70 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 70 -8 70 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 170 -8 70 1 0 0 0 1 0 0 0 1 placa1.dat
+1 226 30 -8 70 1 0 0 0 1 0 0 0 1 placa1.dat
+1 47 50 -8 70 1 0 0 0 1 0 0 0 1 placa1.dat
+1 47 150 -8 70 1 0 0 0 1 0 0 0 1 placa1.dat
+1 226 30 0 70 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 110 0 70 1 0 0 0 1 0 0 0 1 placa4.dat
+1 226 190 -48 490 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+1 226 150 -48 490 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+1 226 110 -48 490 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+1 226 70 -48 490 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+1 226 190 -24 110 -1 0 0 0 1 0 0 0 -1 vntscorp.dat
+1 226 190 -24 118 -1 0 0 0 1 0 0 0 -1 vntscorv.dat
+1 226 70 -24 118 -1 0 0 0 1 0 0 0 -1 vntscorv.dat
 0 MLCAD BTG quinqui
 1 226 150 -64.472 284.719 1 0 0 0 0.866025 0.5 0 -0.5 0.866025 htitcab2.dat
 0 MLCAD BTG quinqui
@@ -108,30 +126,29 @@
 0 MLCAD BTG ruedas_delanteras
 1 383 70 -16 130 1 0 0 0 1 0 0 0 1 placa2x2.dat
 0 GROUP 5 ruedas_delanteras
-0 MLCAD BTG faro_derecho
-1 383 30 -48 74 1 0 0 0 0 1 0 -1 0 placa2.dat
-0 MLCAD BTG faro_derecho
-1 383 30 -48 82 1 0 0 0 0 1 0 -1 0 placa2.dat
-0 MLCAD BTG faro_derecho
+0 MLCAD BTG faro_derecho_delantero
+1 226 30 -48 74 1 0 0 0 0 1 0 -1 0 placa2.dat
+0 MLCAD BTG faro_derecho_delantero
+1 226 30 -48 82 1 0 0 0 0 1 0 -1 0 placa2.dat
+0 MLCAD BTG faro_derecho_delantero
 1 47 30 -48 66 1 0 0 0 0 1 0 -1 0 placa1.dat
-0 MLCAD BTG faro_derecho
+0 MLCAD BTG faro_derecho_delantero
 1 47 50 -48 66 1 0 0 0 0 1 0 -1 0 placa1.dat
-0 GROUP 4 faro_derecho
-0 MLCAD BTG faro_izquierdo
-1 383 150 -47 74 1 0 0 0 0 1 0 -1 0 placa2.dat
-0 MLCAD BTG faro_izquierdo
-1 383 150 -47 82 1 0 0 0 0 1 0 -1 0 placa2.dat
-0 MLCAD BTG faro_izquierdo
+0 GROUP 4 faro_derecho_delantero
+0 MLCAD BTG faro_izquierdo_delantero
+1 226 150 -47 74 1 0 0 0 0 1 0 -1 0 placa2.dat
+0 MLCAD BTG faro_izquierdo_delantero
+1 226 150 -47 82 1 0 0 0 0 1 0 -1 0 placa2.dat
+0 MLCAD BTG faro_izquierdo_delantero
 1 47 150 -47 66 1 0 0 0 0 1 0 -1 0 placa1.dat
-0 MLCAD BTG faro_izquierdo
+0 MLCAD BTG faro_izquierdo_delantero
 1 47 170 -47 66 1 0 0 0 0 1 0 -1 0 placa1.dat
-0 GROUP 4 faro_izquierdo
-1 383 70 -24 90 1 0 0 0 1 0 0 0 1 alfajacn.dat
-1 383 110 -24 90 1 0 0 0 1 0 0 0 1 alfajacn.dat
-1 226 30 0 70 1 0 0 0 1 0 0 0 1 jacena8.dat
+0 GROUP 4 faro_izquierdo_delantero
+1 132 70 -24 90 1 0 0 0 1 0 0 0 1 alfajacn.dat
+1 132 110 -24 90 1 0 0 0 1 0 0 0 1 alfajacn.dat
+1 383 180 -56 440 1 0 0 0 1 0 0 0 1 tbfarola.dat
 1 226 30 -24 190 1 0 0 0 1 0 0 0 1 jacena8.dat
 1 226 30 -24 370 1 0 0 0 1 0 0 0 1 jacena8.dat
-1 226 70 -24 390 0 0 -1 0 1 0 1 0 0 jacen2x3.dat
 1 226 190 0 210 0 0 -1 0 1 0 1 0 0 jacena4.dat
 1 226 190 -24 210 0 0 -1 0 1 0 1 0 0 jacena4.dat
 1 226 190 -24 290 0 0 -1 0 1 0 1 0 0 jacena4.dat
@@ -142,19 +159,20 @@
 1 226 50 -24 290 0 0 -1 0 1 0 1 0 0 jacena4.dat
 1 226 50 0 210 0 0 -1 0 1 0 1 0 0 jacena4.dat
 1 226 50 -24 210 0 0 -1 0 1 0 1 0 0 jacena4.dat
-1 226 190 -24 390 0 0 -1 0 1 0 1 0 0 jacen2x3.dat
+1 226 190 -24 390 0 0 -1 0 1 0 1 0 0 jacen2x4.dat
+1 226 70 -24 390 0 0 -1 0 1 0 1 0 0 jacen2x4.dat
 1 226 30 0 350 1 0 0 0 1 0 0 0 1 cuna.dat
 1 226 70 0 350 1 0 0 0 1 0 0 0 1 cuna.dat
 1 226 110 0 350 1 0 0 0 1 0 0 0 1 cuna.dat
 1 226 150 0 350 1 0 0 0 1 0 0 0 1 cuna.dat
 1 226 70 0 470 -1 0 0 0 1 0 0 0 -1 cuna.dat
 1 226 190 0 470 -1 0 0 0 1 0 0 0 -1 cuna.dat
-1 383 130 0 470 -1 0 0 0 1 0 0 0 -1 jacena2.dat
-1 383 130 -24 470 -1 0 0 0 1 0 0 0 -1 jacena2.dat
-1 226 140 -24 460 -1 0 0 0 1 0 0 0 -1 jacena1.dat
-1 226 80 -24 460 -1 0 0 0 1 0 0 0 -1 jacena1.dat
-1 226 80 0 460 -1 0 0 0 1 0 0 0 -1 jacena1.dat
-1 226 140 0 460 -1 0 0 0 1 0 0 0 -1 jacena1.dat
+1 383 130 0 490 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+1 383 130 -24 490 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+1 226 140 -24 480 -1 0 0 0 1 0 0 0 -1 jacena1.dat
+1 226 80 -24 480 -1 0 0 0 1 0 0 0 -1 jacena1.dat
+1 226 80 0 480 -1 0 0 0 1 0 0 0 -1 jacena1.dat
+1 226 140 0 480 -1 0 0 0 1 0 0 0 -1 jacena1.dat
 1 383 180 24 390 1 0 0 0 1 0 0 0 1 ruextro4.dat
 1 383 110 -8 390 1 0 0 0 1 0 0 0 1 placa2x2.dat
 1 383 70 -8 390 1 0 0 0 1 0 0 0 1 placa2x2.dat
@@ -164,30 +182,28 @@
 1 226 30 -48 370 0 0 1 0 1 0 -1 0 0 ventan4.dat
 1 226 190 -48 290 0 0 -1 0 1 0 1 0 0 ventan4.dat
 1 226 190 -48 210 0 0 -1 0 1 0 1 0 0 ventan4.dat
-1 383 110 -48 150 -1 0 0 0 1 0 0 0 -1 alfaplac.dat
-1 383 150 -48 150 -1 0 0 0 1 0 0 0 -1 alfaplac.dat
+1 383 70 16 100 0 0 1 0 1 0 -1 0 0 remate62.dat
+1 383 30 16 100 0 0 1 0 1 0 -1 0 0 remate_2.dat
+1 383 150 16 460 0 0 -1 0 1 0 1 0 0 remate62.dat
+1 383 190 16 460 0 0 -1 0 1 0 1 0 0 remate_2.dat
 1 0 170 0 330 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
 1 0 130 0 330 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
 1 0 90 0 330 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
 1 0 90 0 250 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
 1 0 130 0 250 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
 1 0 170 0 250 -1 0 0 0 1 0 0 0 -1 baldc2x2.dat
-1 226 170 -24 470 -1 0 0 0 1 0 0 0 -1 enganch2.dat
-1 226 190 -24 470 -1 0 0 0 1 0 0 0 -1 enganch2.dat
-1 226 70 -24 470 -1 0 0 0 1 0 0 0 -1 enganch2.dat
-1 226 50 -24 470 -1 0 0 0 1 0 0 0 -1 enganch2.dat
+1 226 170 -24 490 -1 0 0 0 1 0 0 0 -1 enganch2.dat
+1 226 190 -24 490 -1 0 0 0 1 0 0 0 -1 enganch2.dat
+1 226 70 -24 490 -1 0 0 0 1 0 0 0 -1 enganch2.dat
+1 226 50 -24 490 -1 0 0 0 1 0 0 0 -1 enganch2.dat
 0 MLCAD BTG faro_trasero_derecho
-1 46 30 -24 470 0 0 1 -1 0 0 0 -1 0 bald2.dat
+1 46 30 -24 490 0 0 1 -1 0 0 0 -1 0 bald2.dat
 0 MLCAD BTG faro_trasero_derecho
-1 36 70 -24 478 -1 0 0 0 0 1 0 1 0 placa2.dat
+1 36 70 -24 498 -1 0 0 0 0 1 0 1 0 placa2.dat
 0 GROUP 2 faro_trasero_derecho
 0 MLCAD BTG faro_izquierdo_trasero
-1 46 150 -24 470 0 0 1 -1 0 0 0 -1 0 bald2.dat
+1 46 150 -24 490 0 0 1 -1 0 0 0 -1 0 bald2.dat
 0 MLCAD BTG faro_izquierdo_trasero
-1 36 190 -24 478 -1 0 0 0 0 1 0 1 0 placa2.dat
+1 36 190 -24 498 -1 0 0 0 0 1 0 1 0 placa2.dat
 0 GROUP 2 faro_izquierdo_trasero
-1 47 40 -50 76 1 0 0 0 -1 0 0 0 -1 vnt1x1c.dat
-1 47 160 -50 76 1 0 0 0 -1 0 0 0 -1 vnt1x1c.dat
-1 7 110 6 68 1 0 0 0 -1 0 0 0 -1 eje625.dat
-1 7 110 6 472 1 0 0 0 -1 0 0 0 -1 eje625.dat
 0
