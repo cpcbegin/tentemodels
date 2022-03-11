@@ -45,8 +45,8 @@
 1 4 50 -8 10 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 4 50 -8 -50 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
 1 0 30 16 90 -1 0 0 0 1 0 0 0 -1 rallado2.dat
-1 15 50 8 -100 1 0 0 0 1 0 0 0 1 astcuerv.dat
-1 15 50 8 -103 1 0 0 0 0 1 0 -1 0 astpierv.dat
-1 15 -30 8 -100 1 0 0 0 1 0 0 0 1 astcuerv.dat
-1 15 -30 8 -103 1 0 0 0 0 1 0 -1 0 astpierv.dat
+1 15 50 14 -100 1 0 0 0 1 0 0 0 1 astcuerv.dat
+1 15 50 14 -103 1 0 0 0 0 1 0 -1 0 astpierv.dat
+1 15 -30 14 -100 1 0 0 0 1 0 0 0 1 astcuerv.dat
+1 15 -30 14 -103 1 0 0 0 0 1 0 -1 0 astpierv.dat
 0
