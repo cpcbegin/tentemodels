@@ -1,5 +1,5 @@
 0 Sin_nombre
-0 Name: fragata-lanzamisiles.ldr
+0 Name: Mar_0615_fragata-lanzamisiles.ldr
 0 Author: jasolo
 0 Unofficial Model
 0 ROTATION CENTER 0 0 0 1 "Custom" 
@@ -57,10 +57,10 @@
 1 7 0 -8 -10 1 0 0 0 1 0 0 0 1 jacena1.dat
 1 7 20 -8 -10 0 0 1 0 1 0 -1 0 0 chimenea.dat
 1 7 -20 -8 -10 0 0 1 0 1 0 -1 0 0 chimenea.dat
-1 15 30 -8 -50 0 0 1 0 1 0 -1 0 0 barca.dat
-1 15 -30 -8 -50 0 0 1 0 1 0 -1 0 0 barca.dat
-1 4 30 24 50 0 0 1 0 1 0 -1 0 0 barca.dat
-1 4 -30 24 50 0 0 1 0 1 0 -1 0 0 barca.dat
+1 15 30 -10 -50.5 0 0 1 0 1 0 -1 0 0 barca.dat
+1 15 -30 -10 -50.5 0 0 1 0 1 0 -1 0 0 barca.dat
+1 4 30 22 49.5 0 0 1 0 1 0 -1 0 0 barca.dat
+1 4 -30 22 49.5 0 0 1 0 1 0 -1 0 0 barca.dat
 1 7 -20 16 -140 0 0 1 0 1 0 -1 0 0 bald2x2.dat
 1 7 -20 16 60 0 0 1 0 1 0 -1 0 0 jacen2x2.dat
 1 15 0 -8 40 -1 0 0 0 1 0 0 0 -1 radar.dat
