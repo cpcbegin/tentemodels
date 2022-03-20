@@ -275,9 +275,9 @@
 0 MLCAD BTG Torso
 1 1 -190 -201 0 1 0 0 0 1 0 0 0 1 placa2x8.dat
 0 MLCAD BTG Torso
-1 1 -150 -209 20 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 1 -70 -209 20 -1 0 0 0 1 0 0 0 -1 rallado2.dat
 0 MLCAD BTG Torso
-1 1 -110 -209 20 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 1 -110 -209 20 -1 0 0 0 1 0 0 0 -1 rallado2.dat
 0 MLCAD BTG Torso
 1 1 -190 -209 20 1 0 0 0 1 0 0 0 1 cuna.dat
 0 MLCAD BTG Torso
@@ -376,10 +376,6 @@
 0 MLCAD BTG Xtronic Base
 1 15 -90 -241 40 -1 0 0 0 1 0 0 0 -1 bisnrarr.dat
 0 MLCAD BTG Xtronic Base
-1 15 -130 -241 40 -1 0 0 0 1 0 0 0 -1 bisnreje.dat
-0 MLCAD BTG Xtronic Base
-1 15 -90 -241 40 -1 0 0 0 1 0 0 0 -1 bisnreje.dat
-0 MLCAD BTG Xtronic Base
 1 15 -110 -249 40 -1 0 0 0 1 0 0 0 -1 xtronic.dat
 0 MLCAD BTG Xtronic Base
 1 34 -160 -249 39 -1 0 0 0 1 0 0 0 -1 xtroroja.dat
@@ -395,24 +391,23 @@
 1 15 -130 -377 40 -1 0 0 0 1 0 0 0 -1 bisnreje.dat
 0 MLCAD BTG Xtronic Base
 1 15 -90 -377 40 -1 0 0 0 1 0 0 0 -1 bisnreje.dat
-0 GROUP 12 Xtronic Base
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 15 -130 -377 40 -1 0 0 0 0 -1 0 -1 0 bisnrarr.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 15 -90 -377 40 -1 0 0 0 0 -1 0 -1 0 bisnrarr.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -70 -377 48 -1 0 0 0 0 -1 0 -1 0 jacen2x4.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -90 -377 72 -1 0 0 0 0 -1 0 -1 0 jacen2x2.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -90 -417 72 0 0 -1 1 0 0 0 -1 0 pico.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -130 -377 72 0 0 1 -1 0 0 0 -1 0 pico.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -110 -417 104 1 0 0 0 0 1 0 -1 0 bisnraba.dat
-0 MLCAD BTG Xtronic Medio
+0 MLCAD BTG Xtronic Base
 1 14 -110 -417 104 1 0 0 0 0 1 0 -1 0 bisnreje.dat
-0 GROUP 8 Xtronic Medio
+0 GROUP 18 Xtronic Base
 0 MLCAD BTG Xtronic Alto
 1 14 -110 -417 104 1 0 0 0 1 0 0 0 1 bisnrarr.dat
 0 MLCAD BTG Xtronic Alto
@@ -450,6 +445,7 @@
 0 MLCAD BTG Xtronic Alto
 1 1 -120.071 -505 154 -0.258819 0 -0.965926 0 1 0 0.965926 0 -0.258819 laser.dat
 0 GROUP 18 Xtronic Alto
+0 MLCAD BTG Cabeza
 1 14 -110 -449 40 -1 0 0 0 1 0 0 0 -1 bisnraba.dat
 0 MLCAD BTG Cabeza
 1 14 -110 -449 40 -1 0 0 0 1 0 0 0 -1 bisnreje.dat
@@ -512,12 +508,12 @@
 0 MLCAD BTG Cabeza
 1 1 -184 -443 -39 0 0 -1 -1 0 0 0 1 0 laser.dat
 0 MLCAD BTG Cabeza
-1 32 -130 -465 -20 0 0 -1 0 1 0 1 0 0 semicupp.dat
+1 32 -90.201 -465 -29.5 0 0 1 0 1 0 -1 0 0 semicupm.dat
 0 MLCAD BTG Cabeza
-1 32 -90 -465 -20 0 0 1 0 1 0 -1 0 0 semicupp.dat
+1 32 -130 -465 -30 0 0 -1 0 1 0 1 0 0 semicupm.dat
 0 MLCAD BTG Cabeza
 1 7 -130 -465 -40 1 0 0 0 1 0 0 0 1 helmando.dat
-0 GROUP 33 Cabeza
+0 GROUP 34 Cabeza
 0 MLCAD BTG Brazo Izquierdo
 1 14 -30 -401 20 0 0 1 0 1 0 -1 0 0 bisnraba.dat
 0 MLCAD BTG Brazo Izquierdo
@@ -560,52 +556,52 @@
 1 1 0 -257 30 -1 0 0 0 -1 0 0 0 1 tubo.dat
 0 GROUP 20 Brazo Izquierdo
 0 MLCAD BTG Brazo Derecho
-1 14 -190 -401 20 0 0 -1 0 1 0 1 0 0 bisnraba.dat
+1 14 -190 -401.5 20 0 0 -1 0 1 0 1 0 0 bisnraba.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -385 40 -1 0 0 0 1 0 0 0 -1 bisnrarr.dat
+1 14 -210 -385.5 40 -1 0 0 0 1 0 0 0 -1 bisnrarr.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -385 40 1 0 0 0 -1 0 0 0 -1 bisnrarr.dat
+1 14 -210 -385.5 40 1 0 0 0 -1 0 0 0 -1 bisnrarr.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -385 40 1 0 0 0 -1 0 0 0 -1 bisnreje.dat
+1 14 -210 -385.5 40 1 0 0 0 -1 0 0 0 -1 bisnreje.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -230 -377 40 1 0 0 0 -1 0 0 0 -1 jacena2.dat
+1 14 -230 -377.5 40 1 0 0 0 -1 0 0 0 -1 jacena2.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -190 -377 20 -1 0 0 0 -1 0 0 0 1 rallado2.dat
+1 14 -190 -377.5 20 -1 0 0 0 -1 0 0 0 1 rallado2.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -190 -353 0 -1 0 0 0 -1 0 0 0 1 jacen2x2.dat
+1 14 -190 -353.5 0 -1 0 0 0 -1 0 0 0 1 jacen2x2.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -321 0 -1 0 0 0 -1 0 0 0 1 bisnraba.dat
+1 14 -210 -321.5 0 -1 0 0 0 -1 0 0 0 1 bisnraba.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -321 0 -1 0 0 0 -1 0 0 0 1 bisnreje.dat
+1 14 -210 -321.5 0 -1 0 0 0 -1 0 0 0 1 bisnreje.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -321 0 -1 0 0 0 -1 0 0 0 1 bisnrarr.dat
+1 14 -210 -321.5 0 -1 0 0 0 -1 0 0 0 1 bisnrarr.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -313 40 0 0 -1 0 -1 0 -1 0 0 cuna.dat
+1 14 -210 -313.5 40 0 0 -1 0 -1 0 -1 0 0 cuna.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -230 -289 20 0 0 -1 0 -1 0 -1 0 0 pistola.dat
+1 14 -230 -289.5 20 0 0 -1 0 -1 0 -1 0 0 pistola.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -250 -289 20 0 0 1 0 -1 0 1 0 0 pistola.dat
+1 14 -250 -289.5 20 0 0 1 0 -1 0 1 0 0 pistola.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -200 -313 10 0 0 1 0 -1 0 1 0 0 gruab.dat
+1 14 -200 -313.5 10 0 0 1 0 -1 0 1 0 0 gruab.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -200 -313 30 0 0 -1 0 -1 0 -1 0 0 gruab.dat
+1 14 -200 -313.5 30 0 0 -1 0 -1 0 -1 0 0 gruab.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -289 40 0 0 -1 0 -1 0 -1 0 0 jacena2.dat
+1 14 -189.969 -289.5 41 0 0 -1 0 -1 0 -1 0 0 jacen2x2.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -210 -265 0 0 0 1 0 -1 0 1 0 0 pico.dat
+1 14 -210 -265.5 0 0 0 1 0 -1 0 1 0 0 pico.dat
 0 MLCAD BTG Brazo Derecho
-1 1 -200 -289.5 10 0 0 1 0 -1 0 1 0 0 amortigu.dat
+1 1 -200 -265.5 10 0 0 1 0 -1 0 1 0 0 amortigu.dat
 0 MLCAD BTG Brazo Derecho
-1 1 -200 -289.5 30 0 0 1 0 -1 0 1 0 0 amortigu.dat
+1 1 -200 -265.5 30 0 0 1 0 -1 0 1 0 0 amortigu.dat
 0 MLCAD BTG Brazo Derecho
-1 1 -200 -264.5 10 0 0 1 0 -1 0 1 0 0 chimplac.dat
+1 1 -200 -240.5 10 0 0 1 0 -1 0 1 0 0 chimplac.dat
 0 MLCAD BTG Brazo Derecho
-1 1 -200 -257.5 10 0 0 1 0 -1 0 1 0 0 laser.dat
+1 1 -200 -233.5 10 0 0 1 0 -1 0 1 0 0 laser.dat
 0 MLCAD BTG Brazo Derecho
-1 1 -200 -257.5 29 0 0 1 0 -1 0 1 0 0 laser.dat
+1 1 -200 -233.5 29 0 0 1 0 -1 0 1 0 0 laser.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -240.297 -274.945 -20 0.866025 0 0.5 0.5 0 -0.866025 0 1 0 cilintap.dat
+1 14 -240.297 -275.445 -20 0.866025 0 0.5 0.5 0 -0.866025 0 1 0 cilintap.dat
 0 MLCAD BTG Brazo Derecho
-1 14 -239.452 -274.783 60 -0.707107 0 -0.707107 0.707107 0 -0.707107 0 -1 0 cilintap.dat
+1 14 -239.452 -275.283 60 -0.707107 0 -0.707107 0.707107 0 -0.707107 0 -1 0 cilintap.dat
 0 GROUP 24 Brazo Derecho
 0
